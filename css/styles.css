@@ -14,12 +14,17 @@ h1 {
 }
 
 .letter {
+    /*background-color: red;*/
     height: 200px;
     width: 200px;
     margin: auto;
     background-repeat: no-repeat;
     background-size: contain;
 }
+
+/*.letter:hover {
+    background-color: aqua;
+}*/
 
 #a {
     background-image: url(../images/a.png);
