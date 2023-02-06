@@ -1,0 +1,271 @@
+body {
+    height: 100%;
+    width: 100vw;
+    background: linear-gradient(0deg, rgba(237, 123, 240, 1) 16%, rgba(137, 148, 229, 1) 35%, rgb(221, 164, 226) 54%, rgb(186, 213, 255) 80%);
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    padding: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aliceblue;
+    text-shadow: 1px 1px 2px aquamarine, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.letter {
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#a {
+    background-image: url(../images/a.png);
+}
+
+#a:hover {
+    background-image: url(../images/a.gif);
+}
+
+#b {
+    background-image: url(../images/b.png);
+}
+
+#b:hover {
+    background-image: url(../images/b.gif);
+}
+
+#c {
+    background-image: url(../images/c.png);
+}
+
+#c:hover {
+    background-image: url(../images/c.gif);
+}
+
+#d {
+    background-image: url(../images/d.png);
+}
+
+#d:hover {
+    background-image: url(../images/d.gif);
+}
+
+#e {
+    background-image: url(../images/e.png);
+}
+
+#e:hover {
+    background-image: url(../images/e.gif);
+}
+
+#f {
+    background-image: url(../images/f.png);
+}
+
+#f:hover {
+    background-image: url(../images/f.gif);
+}
+
+#g {
+    background-image: url(../images/g.png);
+}
+
+#g:hover {
+    background-image: url(../images/g.gif);
+}
+
+#h {
+    background-image: url(../images/h.png);
+}
+
+#h:hover {
+    background-image: url(../images/h.gif);
+}
+
+#i {
+    background-image: url(../images/i.png);
+}
+
+#i:hover {
+    background-image: url(../images/i.gif);
+}
+
+#j {
+    background-image: url(../images/j.png);
+}
+
+#j:hover {
+    background-image: url(../images/j.gif);
+}
+
+#k {
+    background-image: url(../images/k.png);
+}
+
+#k:hover {
+    background-image: url(../images/k.gif);
+}
+
+#l {
+    background-image: url(../images/l.png);
+}
+
+#l:hover {
+    background-image: url(../images/l.gif);
+}
+
+#m {
+    background-image: url(../images/m.png);
+}
+
+#m:hover {
+    background-image: url(../images/m.gif);
+}
+
+#n {
+    background-image: url(../images/n.png);
+}
+
+#n:hover {
+    background-image: url(../images/n.gif);
+}
+
+#o {
+    background-image: url(../images/o.png);
+}
+
+#o:hover {
+    background-image: url(../images/o.gif);
+}
+
+#p {
+    background-image: url(../images/p.png);
+}
+
+#p:hover {
+    background-image: url(../images/p.gif);
+}
+
+#q {
+    background-image: url(../images/q.png);
+}
+
+#q:hover {
+    background-image: url(../images/q.gif);
+}
+
+#r {
+    background-image: url(../images/r.png);
+}
+
+#r:hover {
+    background-image: url(../images/r.gif);
+}
+
+#s {
+    background-image: url(../images/s.png);
+}
+
+#s:hover {
+    background-image: url(../images/s.gif);
+}
+
+#t {
+    background-image: url(../images/t.png);
+}
+
+#t:hover {
+    background-image: url(../images/t.gif);
+}
+
+#u {
+    background-image: url(../images/u.png);
+}
+
+#u:hover {
+    background-image: url(../images/u.gif);
+}
+
+#v {
+    background-image: url(../images/v.png);
+}
+
+#v:hover {
+    background-image: url(../images/v.gif);
+}
+
+#w {
+    background-image: url(../images/w.png);
+}
+
+#w:hover {
+    background-image: url(../images/w.gif);
+}
+
+#x {
+    background-image: url(../images/x.png);
+}
+
+#x:hover {
+    background-image: url(../images/x.gif);
+}
+
+#y {
+    background-image: url(../images/y.png);
+}
+
+#y:hover {
+    background-image: url(../images/y.gif);
+}
+
+#z {
+    background-image: url(../images/z.png);
+}
+
+#z:hover {
+    background-image: url(../images/z.gif);
+}
+
+#exclamation {
+    background-image: url(../images/exclamation.png);
+}
+
+#eclamation:hover {
+    background-image: url(../images/exclamation.gif);
+}
+
+#question {
+    background-image: url(../images/question.png);
+}
+
+#question:hover {
+    background-image: url(../images/question.gif);
+}
+
+#money {
+    background-image: url(../images/money.png);
+}
+
+#money:hover {
+    background-image: url(../images/a=money.gif);
+}
+
+#at {
+    background-image: url(../images/at.png);
+}
+
+#at:hover {
+    background-image: url(../images/at.gif);
+}
+
+#period {
+    background-image: url(../images/period.png);
+    background-size: auto;
+}
+
+#period:hover {
+    background-image: url(../images/period.gif);
+}
